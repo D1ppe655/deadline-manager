@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "title": сломанный текст,
+        "deadline": "2026-06-11T16:11:00",
+        "is_important": false
+    },
+    {
+        "id": 2,
+        "title": "Экзамен",
+        "deadline": "2027-05-21T15:25:00",
+        "is_important": true
+    }
+]
